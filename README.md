@@ -45,4 +45,4 @@
   владельца базой данных и
   пароль;
 - Запустить приложение в
-  файле **[DiplomaApplication](src/main/java/pro/sky/certificationcareercenter/CertificationCareerCenterApplication.java)**
+  файле **[CertificationCareerCenterApplication](src/main/java/pro/sky/certificationcareercenter/CertificationCareerCenterApplication.java)**
